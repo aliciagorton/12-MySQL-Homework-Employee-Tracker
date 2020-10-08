@@ -2,6 +2,12 @@
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
+
+Employee Tracker is an application that allows the user to keep create, read, update, and delete data related to specific employees. When starting up the application the user has the option of viewing all employees, viewing employees by department, adding an employee, remove employees, add departments, and add roles. The program uses a MySQL database to store information for the user. When the user chooses an option the corresponding table appears in the terminal.
+
+I would have to say that MySQL is one of the most frustrating topics that I have come across so far in the bootcamp. It took me many, many, hours to figure out how to insert information between different tables. After a couple days of figuring out MySQL I got the miniumum requirements accomplished. Minimum Champion! I spent the next couple days watching this tutorial on YouTube from "Programming With Mosh". After watching the video I am really starting to understand. I can connect tables, make joins, and select information with more ease
+
+
 ## Instructions
 
 Design the following database schema containing three tables:
